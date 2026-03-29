@@ -1,2 +1,2 @@
-# GFG_Coding_Questions
-A growing collection of GFG problems to build strong problem-solving and algorithmic skills.
+# Coding_Questions
+A collection of problems to build strong problem-solving and algorithmic skills.
